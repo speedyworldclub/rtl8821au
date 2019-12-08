@@ -8,8 +8,8 @@ else
 fi
 
 DRV_DIR="$(pwd)"
-DRV_NAME=rtl8812au
-DRV_VERSION=5.6.4.2
+DRV_NAME=rtl8821au
+DRV_VERSION=4.2.3
 
 cp -r $(pwd) /usr/src/${DRV_NAME}-${DRV_VERSION}
 
