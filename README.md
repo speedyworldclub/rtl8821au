@@ -1,5 +1,5 @@
 ## Changes
-2019-07-11: Updated to compile against kernel 5.2
+2019-07-11: Updated to compile against kernel 5.2 (https://github.com/AstroDrabb/rtl8812au)
 
 ## Realtek 802.11ac (rtl8812au)
 
